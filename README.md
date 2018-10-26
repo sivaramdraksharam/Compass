@@ -1,2 +1,2 @@
 # Compass
-A poineer in guiding you in learning java
+A poineer in guiding you to learn java
